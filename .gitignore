@@ -13,5 +13,4 @@ yarn-error.log
 /resources/views/productAjax.blade.php
 /app/Product.php
 /app/Http/Controllers/ProductAjaxController.php
-/README.md
-site.txt
+/site.txt
